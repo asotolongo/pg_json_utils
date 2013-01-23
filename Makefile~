@@ -1,6 +1,0 @@
-EXTENSION = json_utils
-DATA = json_utils.sql
-PG_CONFIG = pg_config
-PGXS := $(shell $(PG_CONFIG) --pgxs)
-include $(PGXS)
-
