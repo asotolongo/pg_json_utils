@@ -1,0 +1,5 @@
+#b extension
+comment = 'extension to work with json type'
+default_version = '0.1'
+relocatable = true
+superuser = false
